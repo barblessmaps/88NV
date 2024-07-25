@@ -1,2 +1,4 @@
 *.swp
 *.tif
+.DS_Store
+data/content-pack/88NV.zip
